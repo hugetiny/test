@@ -1,9 +1,3 @@
----
-layout: default
----
-
-
-
 [English]({{ site.baseurl }}{% link index.md %}) |
 [中文简体]({{ site.baseurl }}{% link READMECN.md %}) |
 [中文繁体]({{ site.baseurl }}{% link READMETW.md %}) |
@@ -20,6 +14,23 @@ layout: default
 [فارسی]({{ site.baseurl }}{% link READMEIR.md %}) |
 [čeština]({{ site.baseurl }}{% link READMECZ.md %}) |
 [Indonesian]({{ site.baseurl }}{% link READMEID.md %})
+
+## Please help us to improve translatation for this page and [Negibox فارسی](https://github.com/hugetiny/negibox/blob/master/translate/fa_IR.js)
+
+#### step1:
+click the pencil in top right corner <img src="imgs/pencil.png"> to fork this project and edit the file
+
+#### step2:
+fix the text to right translation and click
+<img src="imgs/propose.png">
+
+#### step3:
+click
+<img src="imgs/create-pull-request.png">
+and
+<img src="imgs/create-pull-request1.png">
+
+#### We will merge pull requests to docs and Negibox as soon as we can.
 
 <h1 align="center">
     <img src="imgs/icon-gif.gif" alt="Negibox" width="256">
@@ -140,4 +151,3 @@ Download the latest version of Negibox Desktop from [github release](https://git
 thank you for supporting my dream to be the next Steam
 
 <a href="http://s04.flagcounter.com/more/Hb"><img src="https://s04.flagcounter.com/countxl/Hb/bg_141414/txt_EBEBEB/border_141414/columns_8/maxflags_32/viewers_Negibox/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
